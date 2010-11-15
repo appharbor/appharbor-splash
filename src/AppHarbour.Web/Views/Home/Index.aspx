@@ -4,7 +4,7 @@
 
 <html>
 <head>
-	<title>Index</title>
+	<title>AppHarbour</title>
 </head>
 <body>
 	<div>
