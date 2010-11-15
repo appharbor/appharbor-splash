@@ -5,6 +5,9 @@
 <html>
 <head>
 	<title>AppHarbour</title>
+	<style>
+		iframe { margin: 0 auto; }
+	</style>
 </head>
 <body>
 	<div>
