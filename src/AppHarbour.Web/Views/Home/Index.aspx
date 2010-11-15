@@ -4,7 +4,7 @@
 
 <html>
 <head>
-	<title>AppHarbour</title>
+	<title>AppHarbour - sign up for our private beta</title>
 	<style>
 		iframe { margin: 0 auto; }
 	</style>
